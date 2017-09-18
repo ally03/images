@@ -1,4 +1,4 @@
-//Any JS in here is autmoatically run for us
+//Any JS in here is automatically run for us
 
 //Import the React library
 import React, { Component } from 'react';
